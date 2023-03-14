@@ -1,0 +1,15 @@
+0,Sports are physical or mental competitive activities that require skill strategy and teamwork
+0,Popular sports include soccer basketball tennis and American football among many others
+0,Sports can be played professionally or recreationally and can be enjoyed by individuals of all ages and skill levels
+0,Some sports are played individually while others involve teams competing against each other
+0,Sports bring people together promoting physical fitness friendly competition and social interaction
+1,Weather refers to the atmospheric conditions of a specific location at a given time
+1,It is the result of various factors such as temperature humidity wind speed and precipitation
+1,Weather patterns can vary from short-term conditions like a passing storm to long-term patterns such as seasonal changes
+1,Meteorologists study weather patterns and use technology such as satellites and computer models to predict future conditions
+1,Understanding weather is important for various activities like agriculture transportation and emergency planning making it a crucial field of study
+2,Science is a systematic and empirical study of the natural world and its phenomena seeking to understand and explain the underlying causes and mechanisms
+2,The goal of science is to generate reliable knowledge and make predictions through observation experimentation and analysis
+2,Science encompasses various branches such as physics biology chemistry earth sciences and more each using unique methods and techniques to uncover new discoveries
+2,Scientific knowledge is constantly evolving as new discoveries are made and theories are revised or rejected based on new evidence
+2,Science plays a crucial role in shaping our understanding of the world and helps us solve problems in medicine technology and everyday life
